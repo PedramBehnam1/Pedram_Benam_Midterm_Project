@@ -9,14 +9,15 @@
 		<meta name="keywords" content="HTML,CSS">
 		<meta name="authore" content="Pedram Behnam">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="stylesheet" type="text/css" href="main.css" />
+		<link rel="stylesheet" type="text/css" href="css/main.css" />
 		<link rel="icon" href="icons/Iran.ico">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
+		<script src="javaScript/toggleBrowserBackground.js"> </script>
 	</head>
 
 	<body lang= "FA">
 			<div id="wrapper">
-				<header>
+				<header id="header2">
 					<div>
 						<img id = "left" src= "images/wikipedia-logo.jpg" alt=""/>  
 					</div>
@@ -40,7 +41,7 @@
 						<input type = "text" id="search" class ="input" placeholder="search" >
 						
 						<div class="searchbtn">
-						<i  class="fas fa-search" > </i>
+						    <i id="button" onclick='toggleFunction()' class="fas fa-search"> </i>  
 						
 						</div>
 						
@@ -50,7 +51,7 @@
 				</header>
 				
 				<!--<div id = "footer"> </div> -->
-				<article> 
+				<article id="article"> 
 					<section class = "image">
 					   <img id = "imageId" src= "images/Iran.jpg" alt="Iran"/>
 					</section>
@@ -275,7 +276,7 @@
 					<!--</div>-->
 				</article>
 				
-				<footer>
+				<footer id= "footer">
 					<video width="320" height="150" id="movie" controls preload="auto" >
 						<source src="videos/COM4134-F21- File.mp4" type="video/mp4" title= "samp">
 						<source src="videos/COM4134-F21- File.ogg" type="video/ogg">
