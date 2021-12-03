@@ -1,6 +1,10 @@
 {
   "name": "assignment7",
+<<<<<<< HEAD
   "homepage": "https://pedrambehnam1.github.io/Pedram-Behnam/",
+=======
+  "homepage": "https:\\https://pedrambehnam1.github.io/assignment7/" ,
+>>>>>>> assignment_7
   "version": "0.1.0",
   "private": true,
   "dependencies": {
