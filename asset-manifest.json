@@ -1,16 +1,29 @@
 {
   "files": {
-    "main.css": "/Pedram_Benam_Midterm_Project/static/css/main.9d73439e.css",
-    "main.js": "/Pedram_Benam_Midterm_Project/static/js/main.06bb0db8.js",
+    "main.css": "/Pedram_Benam_Midterm_Project/static/css/main.1b069414.css",
+    "main.js": "/Pedram_Benam_Midterm_Project/static/js/main.a8ec1658.js",
     "static/js/787.d2521742.chunk.js": "/Pedram_Benam_Midterm_Project/static/js/787.d2521742.chunk.js",
+    "static/media/mockup-3.jpg": "/Pedram_Benam_Midterm_Project/static/media/mockup-3.7496309bf80ffac1c835.jpg",
+    "static/media/mockup-4.jpg": "/Pedram_Benam_Midterm_Project/static/media/mockup-4.9532c3885e2b8e5f853f.jpg",
+    "static/media/mockup-2.jpg": "/Pedram_Benam_Midterm_Project/static/media/mockup-2.e60ec77415659d95e252.jpg",
+    "static/media/mockup-1.jpg": "/Pedram_Benam_Midterm_Project/static/media/mockup-1.b38cf55851c7c767efd4.jpg",
     "static/media/Driblle.png": "/Pedram_Benam_Midterm_Project/static/media/Driblle.3fdff82edf2c03a7cb58.png",
+    "static/media/mockup-6.jpg": "/Pedram_Benam_Midterm_Project/static/media/mockup-6.8453c65fae88c4cbd37c.jpg",
+    "static/media/mockup-7.jpg": "/Pedram_Benam_Midterm_Project/static/media/mockup-7.6b762121cb1b937675c4.jpg",
+    "static/media/mockup-8.jpg": "/Pedram_Benam_Midterm_Project/static/media/mockup-8.c1af774204c9821eca0d.jpg",
+    "static/media/logo-7.jpg": "/Pedram_Benam_Midterm_Project/static/media/logo-7.a0ba8e21c31c4e260cd9.jpg",
+    "static/media/logo-8.jpg": "/Pedram_Benam_Midterm_Project/static/media/logo-8.677a3cb21c00d6a93e2b.jpg",
+    "static/media/logo-6.jpg": "/Pedram_Benam_Midterm_Project/static/media/logo-6.cc9ae93fd9fda90ad454.jpg",
+    "static/media/logo-5.jpg": "/Pedram_Benam_Midterm_Project/static/media/logo-5.38e039fe4ff1475eab0a.jpg",
+    "static/media/logo-3.jpg": "/Pedram_Benam_Midterm_Project/static/media/logo-3.1578ce423496c8a80710.jpg",
+    "static/media/logo-2.jpg": "/Pedram_Benam_Midterm_Project/static/media/logo-2.a1d8d2faf390deda60d3.jpg",
     "index.html": "/Pedram_Benam_Midterm_Project/index.html",
-    "main.9d73439e.css.map": "/Pedram_Benam_Midterm_Project/static/css/main.9d73439e.css.map",
-    "main.06bb0db8.js.map": "/Pedram_Benam_Midterm_Project/static/js/main.06bb0db8.js.map",
+    "main.1b069414.css.map": "/Pedram_Benam_Midterm_Project/static/css/main.1b069414.css.map",
+    "main.a8ec1658.js.map": "/Pedram_Benam_Midterm_Project/static/js/main.a8ec1658.js.map",
     "787.d2521742.chunk.js.map": "/Pedram_Benam_Midterm_Project/static/js/787.d2521742.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d73439e.css",
-    "static/js/main.06bb0db8.js"
+    "static/css/main.1b069414.css",
+    "static/js/main.a8ec1658.js"
   ]
 }
