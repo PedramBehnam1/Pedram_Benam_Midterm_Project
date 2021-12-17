@@ -334,7 +334,7 @@ article section h3.h3{
 
 .section1{
   width: 12%;
-  height: 66px;
+  height: 44px;
   margin: 0 611px;
   padding: 0;
   border: 0;
@@ -359,9 +359,73 @@ img#star {
   margin: 8px 8px;
 }
 
+section.section2 {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+
+h4#h4 {
+  text-align: center;
+  margin-bottom: 13px;
+  color: #777777;
+  font-size: 21px;
+  font-weight: 600;
+  line-height: 1.1em;
+  font-family: 'playfair display','HelveticaNeue','Helvetica Neue','Helvetica-Neue';
+}
+
+#p3{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  text-align: center;
+  color: #b0b0b0;
+  height: 52px;
+}
+
+div#div6 {
+  height: 61px;
+}
+
+
+section.section2 #div6 form{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+}
+
+#email_Text{
+  color: #222;
+  border-color: #222;
+  border-width: 2px !important;
+  width: 228px;
+  height: 40px;
+  min-width: 50px;
+  font: 1em "HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;
+  margin: 0 5px;
+}
+
+button#btn1 {
+  background-color: white;
+  color: #222;
+  border-color: #222;
+  width: 72px;
+  height: 46px;
+}
+
+button#btn1:hover{
+  background-color: rgba(9, 9, 9, 0.776);
+  color: #ffffff;
+}
+
+
 /*
 
-
+color: blue;
+    border-color: #222;
 
 
 

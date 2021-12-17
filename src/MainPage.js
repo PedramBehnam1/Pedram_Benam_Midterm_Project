@@ -140,6 +140,18 @@ class MainPage extends Component {
 
           </section>
 
+          <section className='section2'>
+              <h4 id='h4'>Subscribe</h4>
+              <p id='p3'>Get our latest news, tips and tricks</p>
+
+              <div id='div6'>
+                <form >
+                  <input name='Email' type="text" defaultValue="E-Mail*"  id='email_Text'/>
+                  <button type='submit' id='btn1'> Submit</button>
+                </form>
+              </div>
+          </section>
+
         </article>
       </div>
     );
