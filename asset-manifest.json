@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Pedram_Benam_Midterm_Project/static/css/main.1b4c7704.css",
-    "main.js": "/Pedram_Benam_Midterm_Project/static/js/main.3d472e86.js",
+    "main.css": "/Pedram_Benam_Midterm_Project/static/css/main.9d73439e.css",
+    "main.js": "/Pedram_Benam_Midterm_Project/static/js/main.06bb0db8.js",
     "static/js/787.d2521742.chunk.js": "/Pedram_Benam_Midterm_Project/static/js/787.d2521742.chunk.js",
+    "static/media/Driblle.png": "/Pedram_Benam_Midterm_Project/static/media/Driblle.3fdff82edf2c03a7cb58.png",
     "index.html": "/Pedram_Benam_Midterm_Project/index.html",
-    "main.1b4c7704.css.map": "/Pedram_Benam_Midterm_Project/static/css/main.1b4c7704.css.map",
-    "main.3d472e86.js.map": "/Pedram_Benam_Midterm_Project/static/js/main.3d472e86.js.map",
+    "main.9d73439e.css.map": "/Pedram_Benam_Midterm_Project/static/css/main.9d73439e.css.map",
+    "main.06bb0db8.js.map": "/Pedram_Benam_Midterm_Project/static/js/main.06bb0db8.js.map",
     "787.d2521742.chunk.js.map": "/Pedram_Benam_Midterm_Project/static/js/787.d2521742.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b4c7704.css",
-    "static/js/main.3d472e86.js"
+    "static/css/main.9d73439e.css",
+    "static/js/main.06bb0db8.js"
   ]
 }
