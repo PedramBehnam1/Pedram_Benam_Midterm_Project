@@ -149,6 +149,216 @@ li.Instagram:hover, li:hover > a.Instagram_image{
   border-radius: 190px;
 }
 
+
+article{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  width: 100%;
+  height: 66px;
+  background: #ffffff;
+}
+
+section.paraghraph {
+  width: 91%;
+  margin: 0 54px;
+
+
+}
+
+
+
+
+
+
+article section h3.h3{
+  width: 1230px;
+  font-family: 'playfair display','HelveticaNeue','Helvetica Neue','Helvetica-Neue',Helveti;
+  font-size: 76px;
+  font-weight: 400;
+  color: inherit;
+}
+
+
+#image1{
+  width: 91%;
+  height: 238px;
+  margin: 0 54px;
+  background-color: #ffffff;
+  display: flex;
+  padding: 0;
+  border: 0;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#logo-8{
+  width: 235px;
+}
+
+#mockup-1{
+  width: 235px;
+}
+
+#logo-4{
+  width: 235px;
+}
+
+#mockup-4{
+  width: 235px;
+}
+
+#logo-2{
+  width: 235px;
+}
+
+
+
+
+#image2{
+  width: 91%;
+  height: 238px;
+  margin: 0 54px;
+  background-color: #ffffff;
+  display: flex;
+  padding: 0;
+  border: 0;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+#image2 a img{
+  width: 235px;
+}
+
+
+#image3{
+  width: 91%;
+  height: 396px;
+  margin: 0 54px;
+  background-color: #ffffff;
+  display: flex;
+  padding: 0;
+  border: 0;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#image3 a img{
+  width: 235px;
+}
+
+#image4{
+  width: 38%;
+  height: 66px;
+  margin: 0 408px;
+  padding: 0;
+  border: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #ffffff;
+}
+
+
+#div2{
+  width: 9.8%;
+  height: 49.6px;
+  margin: 0 8px;
+  background-color: #000;
+  border-radius: 28px;
+}
+
+#Twitter_Icon{
+  background-color: white;
+  margin: 9px 10px;
+  border-radius: 13px;
+  width: 30px;
+}
+
+
+#facebook{
+  width: 53px;
+  margin: 0;
+}
+
+
+#div3{
+  width: 9.8%;
+  height: 49.6px;
+  border-radius: 28px;
+  background-color: #000;
+}
+
+#dribbble-1{
+  background-color: white;
+  margin: 9px 10px;
+  border-radius: 13px;
+  width: 30px;
+}
+
+
+#div4{
+  width: 9.8%;
+  height: 49.6px;
+  border-radius: 28px;
+  background-color: #000;
+}
+
+#instagram-1{
+  background-color: white;
+  margin: 9px 10px;
+  border-radius: 13px;
+  width: 30px;
+}
+
+#linkedin{
+  width: 53px;
+  margin: 0;
+}
+
+#div5{
+  width: 9.8%;
+  height: 49.6px;
+  border-radius: 28px;
+  background-color: #000;
+}
+
+
+#sms{
+  width: 30px;
+  background-color: #ffffff;
+  margin: 9px 10px;
+}
+
+.section1{
+  width: 12%;
+  height: 66px;
+  margin: 0 611px;
+  padding: 0;
+  border: 0;
+  display: flex;
+  flex-direction: row;
+  background-color: #ffffff;
+}
+
+
+.section1 p{
+  width: 47px;
+  max-width: 45%;
+  border-top-width: 1px;
+  border-top-style: solid;
+  font: inherit;
+  color: #b0b0b0;
+}
+
+img#star {
+  width: 20px;
+  height: 20px;
+  margin: 8px 8px;
+}
+
 /*
 
 
